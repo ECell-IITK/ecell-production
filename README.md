@@ -1,2 +1,2 @@
-# E-cell Production
-Production repo E-cell
+# ecell
+Website for Entrepreneurship Cell, IIT Kanpur
